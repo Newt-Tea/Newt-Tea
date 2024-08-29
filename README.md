@@ -2,5 +2,5 @@
 
 - 🔭 I’m currently working on lots of things but the main one at the moment is my terminal based recreation of Pokemon you should check it out [here](https://github.com/Newt-Tea/Pokemon) or my web portfolio  [here](https://newt-tea.github.io/)
 - 🌱 I’m currently learning: Python, Documentation, Systems Programming in C, and studying and Cisco networking certifications
-- 📫 How to reach me: If you want to build something together or need help on a project I'm willing to learn anything computer related. Shoot me an email at hudsonhargrove01@gmail.com
+- 📫 How to reach me: If you want to build something together or need help on a project I'm always willing to help and learn. Shoot me an email at hudsonhargrove01@gmail.com
 
