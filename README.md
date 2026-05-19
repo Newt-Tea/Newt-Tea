@@ -1,6 +1,12 @@
-### Hi I'm Hudson I'm currently studying Computer Science and looking for work in Development, or Networking 
+# Hi, I'm Hudson. 👋
 
-- 🔭 I’m currently working on lots of things but the main one at the moment is my terminal based recreation of Pokemon you should check it out [here](https://github.com/Newt-Tea/Pokemon) or my web portfolio  [here](https://newt-tea.github.io/)
-- 🌱 I’m currently learning: Python, Documentation, Systems Programming in C, and Cisco networking certifications
-- 📫 How to reach me: If you want to build something together or want help on a project I'm always willing to assist and learn. Shoot me an email at hudsonhargrove01@gmail.com
+I am a Computer Science graduate and **Security+** certified IT professional focusing on network infrastructure, system administration, and cybersecurity defense. I enjoy building and breaking environments to understand how traffic flows and how to secure it from the ground up.
 
+### 🛠️ Tech Stack & Tools:
+* **Networking & SysAdmin:** Linux (CLI, Ubuntu/Debian), SSH/PuTTY, Active Directory, Pi-hole, Nginx
+* **Containerization:** Docker, Podman
+* **Languages:** Python, C++, C, SQL, HTML, CSS
+* **Security:** Access Control, CSEC Frameworks, Traffic Analysis, Security+
+
+### 📫 Let's Connect:
+* **LinkedIn:** [linkedin.com/in/hudson-hargrove](https://www.linkedin.com/in/hudson-hargrove/)
